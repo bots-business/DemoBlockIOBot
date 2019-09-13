@@ -3,6 +3,7 @@
   help: Get newly generated address, and its unique(!) YOURS label.
   need_reply: true
   auto_retry_time: 
+  folder: 
   answer: Please input unique label
   keyboard: 
   aliases: 📎new address by label

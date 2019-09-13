@@ -3,6 +3,7 @@
   help: 
   need_reply: 
   auto_retry_time: 
+  folder: 
 
   <<ANSWER
 Hello. It is Demo bot for BlockIO Lib integration with https://block.io.

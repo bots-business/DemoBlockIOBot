@@ -3,6 +3,7 @@
   help: set api key for TestNet Bitcoin
   need_reply: false
   auto_retry_time: 
+  folder: 
   answer: Api Key - OK
   keyboard: 
   aliases: 

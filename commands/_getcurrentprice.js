@@ -3,6 +3,7 @@
   help: 
   need_reply: true
   auto_retry_time: 
+  folder: 
   answer: Please input BASE CURRENCY. For example: `USD`, `GBP`, `CNY` and etc
   keyboard: 
   aliases: 💵current price
